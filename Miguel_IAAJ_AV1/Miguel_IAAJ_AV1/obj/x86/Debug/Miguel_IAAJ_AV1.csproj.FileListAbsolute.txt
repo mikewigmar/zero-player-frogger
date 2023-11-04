@@ -1,0 +1,16 @@
+c:\users\miguel\documents\visual studio 2010\Projects\Miguel_IAAJ_AV1\Miguel_IAAJ_AV1\Miguel_IAAJ_AV1\bin\x86\Debug\Content\Sprites\background.xnb
+c:\users\miguel\documents\visual studio 2010\Projects\Miguel_IAAJ_AV1\Miguel_IAAJ_AV1\Miguel_IAAJ_AV1\bin\x86\Debug\Content\Sprites\ball.xnb
+c:\users\miguel\documents\visual studio 2010\Projects\Miguel_IAAJ_AV1\Miguel_IAAJ_AV1\Miguel_IAAJ_AV1\bin\x86\Debug\Content\Sprites\car.xnb
+c:\users\miguel\documents\visual studio 2010\Projects\Miguel_IAAJ_AV1\Miguel_IAAJ_AV1\Miguel_IAAJ_AV1\bin\x86\Debug\Content\Sprites\flower.xnb
+c:\users\miguel\documents\visual studio 2010\Projects\Miguel_IAAJ_AV1\Miguel_IAAJ_AV1\Miguel_IAAJ_AV1\bin\x86\Debug\Content\Sprites\frog.xnb
+c:\users\miguel\documents\visual studio 2010\Projects\Miguel_IAAJ_AV1\Miguel_IAAJ_AV1\Miguel_IAAJ_AV1\bin\x86\Debug\Content\Sprites\log.xnb
+c:\users\miguel\documents\visual studio 2010\Projects\Miguel_IAAJ_AV1\Miguel_IAAJ_AV1\Miguel_IAAJ_AV1\bin\x86\Debug\Content\Sprites\truck.xnb
+c:\users\miguel\documents\visual studio 2010\Projects\Miguel_IAAJ_AV1\Miguel_IAAJ_AV1\Miguel_IAAJ_AV1\bin\x86\Debug\Miguel_IAAJ_AV1.exe
+c:\users\miguel\documents\visual studio 2010\Projects\Miguel_IAAJ_AV1\Miguel_IAAJ_AV1\Miguel_IAAJ_AV1\bin\x86\Debug\Miguel_IAAJ_AV1.pdb
+c:\users\miguel\documents\visual studio 2010\Projects\Miguel_IAAJ_AV1\Miguel_IAAJ_AV1\Miguel_IAAJ_AV1\obj\x86\Debug\Miguel_IAAJ_AV1.csprojResolveAssemblyReference.cache
+c:\users\miguel\documents\visual studio 2010\Projects\Miguel_IAAJ_AV1\Miguel_IAAJ_AV1\Miguel_IAAJ_AV1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\miguel\documents\visual studio 2010\Projects\Miguel_IAAJ_AV1\Miguel_IAAJ_AV1\Miguel_IAAJ_AV1\obj\x86\Debug\Miguel_IAAJ_AV1.exe
+c:\users\miguel\documents\visual studio 2010\Projects\Miguel_IAAJ_AV1\Miguel_IAAJ_AV1\Miguel_IAAJ_AV1\obj\x86\Debug\Miguel_IAAJ_AV1.pdb
+c:\users\miguel\documents\visual studio 2010\Projects\Miguel_IAAJ_AV1\Miguel_IAAJ_AV1\Miguel_IAAJ_AV1\bin\x86\Debug\Content\Sprites\flowerfrog.xnb
+c:\users\miguel\documents\visual studio 2010\Projects\Miguel_IAAJ_AV1\Miguel_IAAJ_AV1\Miguel_IAAJ_AV1\bin\x86\Debug\KopiLua.dll
+c:\users\miguel\documents\visual studio 2010\Projects\Miguel_IAAJ_AV1\Miguel_IAAJ_AV1\Miguel_IAAJ_AV1\bin\x86\Debug\NLua.dll

@@ -1,0 +1,22 @@
+string = "Start LUA"
+counter = 0
+
+function Start()
+	Print(string)
+end
+
+function Update()
+	
+	if counter == 0 then
+			if posY <= 250 then 
+				if frontGoal then MoveUp() end
+				if frontPlatform then MoveUp() end
+			end
+			if posY <= 550 and posY >= 300 then
+				if rightObstacle or leftObstacle then MoveDown() end
+				if not frontObstacle then MoveUp() end
+			end
+
+	end	
+end 
+

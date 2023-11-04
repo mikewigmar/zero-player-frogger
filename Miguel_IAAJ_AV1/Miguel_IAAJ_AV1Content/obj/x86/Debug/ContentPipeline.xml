@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Sprites\background.png</Source>
+      <Name>Sprites\background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\miguel\documents\visual studio 2010\Projects\Miguel_IAAJ_AV1\Miguel_IAAJ_AV1\Miguel_IAAJ_AV1\bin\x86\Debug\Content\Sprites\background.xnb</Output>
+      <Time>2021-12-15T08:08:18.2493203-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\ball.png</Source>
+      <Name>Sprites\ball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\miguel\documents\visual studio 2010\Projects\Miguel_IAAJ_AV1\Miguel_IAAJ_AV1\Miguel_IAAJ_AV1\bin\x86\Debug\Content\Sprites\ball.xnb</Output>
+      <Time>2021-12-15T08:08:18.2533087-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\car.png</Source>
+      <Name>Sprites\car</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\miguel\documents\visual studio 2010\Projects\Miguel_IAAJ_AV1\Miguel_IAAJ_AV1\Miguel_IAAJ_AV1\bin\x86\Debug\Content\Sprites\car.xnb</Output>
+      <Time>2021-12-15T08:08:18.2572999-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\flower.png</Source>
+      <Name>Sprites\flower</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\miguel\documents\visual studio 2010\Projects\Miguel_IAAJ_AV1\Miguel_IAAJ_AV1\Miguel_IAAJ_AV1\bin\x86\Debug\Content\Sprites\flower.xnb</Output>
+      <Time>2021-12-15T08:08:18.2602922-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\frog.png</Source>
+      <Name>Sprites\frog</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\miguel\documents\visual studio 2010\Projects\Miguel_IAAJ_AV1\Miguel_IAAJ_AV1\Miguel_IAAJ_AV1\bin\x86\Debug\Content\Sprites\frog.xnb</Output>
+      <Time>2021-12-15T08:08:18.2642812-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\log.png</Source>
+      <Name>Sprites\log</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\miguel\documents\visual studio 2010\Projects\Miguel_IAAJ_AV1\Miguel_IAAJ_AV1\Miguel_IAAJ_AV1\bin\x86\Debug\Content\Sprites\log.xnb</Output>
+      <Time>2021-12-15T08:08:18.2672732-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\truck.png</Source>
+      <Name>Sprites\truck</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\miguel\documents\visual studio 2010\Projects\Miguel_IAAJ_AV1\Miguel_IAAJ_AV1\Miguel_IAAJ_AV1\bin\x86\Debug\Content\Sprites\truck.xnb</Output>
+      <Time>2021-12-15T08:08:18.2703364-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\flowerfrog.png</Source>
+      <Name>Sprites\flowerfrog</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\miguel\documents\visual studio 2010\Projects\Miguel_IAAJ_AV1\Miguel_IAAJ_AV1\Miguel_IAAJ_AV1\bin\x86\Debug\Content\Sprites\flowerfrog.xnb</Output>
+      <Time>2021-12-15T19:25:16.4698191-03:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>c:\users\miguel\documents\visual studio 2010\Projects\Miguel_IAAJ_AV1\Miguel_IAAJ_AV1\Miguel_IAAJ_AV1Content\</RootDirectory>
+      <LoggerRootDirectory>c:\users\miguel\documents\visual studio 2010\Projects\Miguel_IAAJ_AV1\Miguel_IAAJ_AV1\Miguel_IAAJ_AV1\</LoggerRootDirectory>
+      <IntermediateDirectory>c:\users\miguel\documents\visual studio 2010\Projects\Miguel_IAAJ_AV1\Miguel_IAAJ_AV1\Miguel_IAAJ_AV1Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>c:\users\miguel\documents\visual studio 2010\Projects\Miguel_IAAJ_AV1\Miguel_IAAJ_AV1\Miguel_IAAJ_AV1\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2021-08-23T06:40:11.7270998-03:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
